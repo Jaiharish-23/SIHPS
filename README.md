@@ -13,28 +13,34 @@ Government of Gujarat
 '''
 
       1.Centralized Alumni Network:
-          Develop a centralized platform, accessible via web and mobile apps, where alumni can register, update their profiles, and connect with peers, faculty, and the institution.
-          This platform will foster stronger relationships, enabling alumni to collaborate professionally and socially, regardless of location.
+          (i)Develop a centralized platform, accessible via web and mobile apps, where alumni can register, update their profiles,
+          and connect with peers, faculty, and the institution.
+          (ii)This platform will foster stronger relationships, enabling alumni to collaborate professionally 
+          and socially, regardless of location.
       
       2.Streamlined Donations:
-          Integrate a secure and transparent donation portal to allow alumni to contribute to scholarships, infrastructure development, research initiatives, and other institutional projects.
-          The platform will provide options for recurring contributions, project sponsorships, and real-time updates on fund utilization.
+          (i)Integrate a secure and transparent donation portal to allow alumni to contribute to scholarships,
+          infrastructure development, research initiatives, and other institutional projects.
+          (ii)The platform will provide options for recurring contributions, project sponsorships, and real-time updates on fund utilization.
           
       3.Career Advancement Hub:
-          Build a dedicated job portal where alumni can search for job opportunities, post vacancies, and access mentorship programs.  
-          Alumni can also guide current students by sharing industry insights and career advice, creating a dynamic career support system.
+          (i)Build a dedicated job portal where alumni can search for job opportunities, post vacancies, and access mentorship programs.  
+          (ii)Alumni can also guide current students by sharing industry insights and career advice, creating a dynamic career support system.
       
       4.Engaging Alumni Events:
-          Provide tools to manage and promote alumni events such as reunions, professional workshops, and webinars.
-          Features will include event registration, live updates, virtual event hosting, and post-event networking, ensuring active participation from a diverse alumni base.
+          (i)Provide tools to manage and promote alumni events such as reunions, professional workshops, and webinars.
+          (ii)Features will include event registration, live updates, virtual event hosting, and post-event networking,
+          ensuring active participation from a diverse alumni base.
       
       5.Celebrating Achievements:
-          Highlight alumni success stories and notable achievements through dedicated sections on the platform.
-          These stories will inspire current students, strengthen the alumni community's pride, and boost the institution’s reputation by showcasing the accomplishments of its graduates.
+          (i)Highlight alumni success stories and notable achievements through dedicated sections on the platform.
+          (ii)These stories will inspire current students, strengthen the alumni community's pride,
+          and boost the institution’s reputation by showcasing the accomplishments of its graduates.
            
       6.Startup Incubation Support:
-          Create a dedicated section where alumni entrepreneurs can pitch ideas, find co-founders, or seek funding from within the alumni network.
-          Highlight alumni-led startups for inspiration and potential collaboration.
+          (i)Create a dedicated section where alumni entrepreneurs can pitch ideas, find co-founders,
+          or seek funding from within the alumni network.
+          (ii)Highlight alumni-led startups for inspiration and potential collaboration.
          
 '''
 
@@ -67,7 +73,8 @@ Government of Gujarat
     	 (ii) Organizers can manage RSVPs, share event details, and post-event highlights.
       
     6.Dynamic Community Forums:
-       (i) Enable interactive discussion boards where alumni can share experiences, ask for advice, or discuss topics of interest.
+       (i) Enable interactive discussion boards where alumni can share experiences,
+       ask for advice, or discuss topics of interest.
        (ii) Forums can include categories like career advice, entrepreneurship, or industry trends.
        
 '''
@@ -141,15 +148,15 @@ Government of Gujarat
 
       Total Estimated Cost and Timeline :
       
-      Category	                     Estimated Cost Range   Time Required
-      Project Management & Planning     RS-15,000 	         5 DAYS
-      Integration Services	          RS-20,000              7 DAYS
-      Security & Compliance	          RS-15,000              7 DAYS
-      Deployment	                      RS-15,000	         5 DAYS
-      Quality Assurance and Testing     RS-20,000              6 DAYS
-      Maintenance & Updates	          RS-25,000              10 DAYS
+      Category	                   Estimated Cost Range  Time Required
+      Project Management & Planning   RS-15,000 	      5 DAYS
+      Integration Services	        RS-20,000             7 DAYS
+      Security & Compliance	        RS-15,000             7 DAYS
+      Deployment	                    RS-15,000	            5 DAYS
+      Quality Assurance and Testing   RS-20,000             6 DAYS
+      Maintenance & Updates	        RS-25,000             10 DAYS
         
-      TOTAL                             RS-1,10,000            40 DAYS
+      TOTAL                           RS-1,10,000            40 DAYS
 
       
 '''
