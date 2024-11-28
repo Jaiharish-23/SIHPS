@@ -141,15 +141,15 @@ Government of Gujarat
 
       Total Estimated Cost and Timeline :
       
-        Category	                              Estimated Cost Range	              Time Required
-        Project Management & Planning	          RS-15,000 	                        5 DAYS
-        Integration Services	                  RS-20,000                           7 DAYS
-        Security & Compliance	                  RS-15,000                           7 DAYS
-        Deployment	                            RS-15,000	                          5 DAYS
-        Quality Assurance and Testing           RS-20,000                           6 DAYS
-        Maintenance & Updates	                  RS-25,000                           10 DAYS
+      Category	                     Estimated Cost Range   Time Required
+      Project Management & Planning     RS-15,000 	         5 DAYS
+      Integration Services	          RS-20,000              7 DAYS
+      Security & Compliance	          RS-15,000              7 DAYS
+      Deployment	                      RS-15,000	         5 DAYS
+      Quality Assurance and Testing     RS-20,000              6 DAYS
+      Maintenance & Updates	          RS-25,000              10 DAYS
         
-        TOTAL                                   RS-1,10,000                         40 DAYS
+      TOTAL                             RS-1,10,000            40 DAYS
 
       
 '''
